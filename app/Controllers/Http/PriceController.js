@@ -25,6 +25,10 @@ class PriceController{
       "54a58",
       "59a63"
     ])
+
+    const plano = await Price.create(dados);
+
+    return plano;
   }
 
 
