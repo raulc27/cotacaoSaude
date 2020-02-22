@@ -1,8 +1,8 @@
 {
-  "name": "adonis-api-app",
-  "version": "4.1.0",
+  "name": "cotacaoSaude",
+  "version": "0.0.1",
   "adonis-version": "4.1.0",
-  "description": "Adonisjs boilerplate for API server with pre-configured JWT",
+  "description": "backend para sistema de cotação de planos de saúde",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -12,8 +12,8 @@
     "adonisjs",
     "adonis-app"
   ],
-  "author": "",
-  "license": "UNLICENSED",
+  "author": "Raul Castro, twitter: @raulc27",
+  "license": "GPL 3: http://www.gnu.org/licenses/gpl-3.0.html",
   "private": true,
   "dependencies": {
     "@adonisjs/ace": "^5.0.8",
